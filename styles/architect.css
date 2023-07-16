@@ -1,3 +1,9 @@
-h1{
-    background-color: pink;
+
+/* Work sans font from google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Work+Sans:wght@400;600;700&display=swap');
+
+*{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
 }
